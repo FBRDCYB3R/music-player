@@ -13,37 +13,7 @@ const durTime = document.querySelector('#durTime');
 
 // Song titles
 const songs = ['Armand Van Helden - My My My (DJ KUBA & NEITAN Remix)',
-'Bassjackers ft. Luciana - Fireflies (Official Music Video)',
-'Catiso - Zanobi',
-'Cazzette - Blind Heart (Broiler Remix)',
-'David Guetta, Martin Garrix & Brooks - Like I Do (Lyric Video)',
-'Dax - !Homicide! Freestyle [One Take Video]',
-'Doja Cat - Boss B!tch (from Birds of Prey! The Album) [Official Music Video]',
-'Dropgun - Drought ft. Nevve (Official Audio)',
-'Dropgun - Tomorrow Never Comes (feat. Bryan Finlay)',
-'Every Little Thing (Bazzflow Remix Radio)',
-"Florian Picasso - Final Call (Mesto & Justin Mylo Remix)",
-'Jay Eskar - Awakening',
-'Jay Eskar - Chakra',
-'Logic - Everybody (Lyrics)',
-'Masked Wolf - Astronaut In The Ocean (Ozlig Remix)',
-'Metrik - Gravity',
-'Mike Williams - Konnichiwa (Original Mix)',
-'MR BLACK & Offer Nissim - Mucho Bien (MR.BLACK Remix)',
-'Netsky - Rio',
-'NF - When I Grow Up',
-'Phoebe Ryan - Mine (Elephante Remix)',
-'Queen Of A Lonely Heart (feat. Lourdiz) (Dastic x Robbie Mendez Club Mix)',
-'RIVERO & Triangle - WICKD (feat. Dean) [Official Audio]',
-'RYLLZ - I Gotta Know',
-'SHAHMEN - MARK (EMR3YGUL Remix)',
-'Shahmen - Mark',
-'SHAHMEN - MARK EMR3YGUL Remix INFINITY BASS',
-'Steve Aoki - Back to Earth feat. Fall Out Boy (LA Riots Remix)',
-"The Black Eyed Peas - Let's Get It Started (Galwaro Remix)",
-'Timmy Trumpet Freaks (Radio Edit)',
-'Tupac  - Changes (Dax Remix) [One Take]',
-'WATEVA - Ber Zer Ker (Rob Gasser Remix) [NCS Release]'
+'- Masked Wolf Astronaut in the Ocean'
 ];
 
 shuffle(songs);
