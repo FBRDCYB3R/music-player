@@ -12,8 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Armand Van Helden - My My My (DJ KUBA & NEITAN Remix)',
-'- Masked Wolf Astronaut in the Ocean',
+const songs = ['- Masked Wolf Astronaut in the Ocean',
 '- Nightcore Ride It Lyrics',
 'Against The Current - Wildfire (Lyrics)',
 'Against The Current - again&again (Lyrics) (feat. guardin)',
