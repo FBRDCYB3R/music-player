@@ -13,7 +13,7 @@ const durTime = document.querySelector('#durTime');
 
 // Song titles
 const songs = ['Armand Van Helden - My My My (DJ KUBA & NEITAN Remix)',
-'- Masked Wolf Astronaut in the Ocean'
+'- Masked Wolf Astronaut in the Ocean',
 ];
 
 shuffle(songs);
